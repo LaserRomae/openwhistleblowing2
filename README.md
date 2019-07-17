@@ -19,6 +19,8 @@ This repository holds the source code for the OpenWhistleblowing2 (a.k.a. OWB2) 
 
 ### Features
 
+OpenWhistleblowing2 was born in order to replace the monolithic structure of the previous version with a more flexible, modular and engine-based one.
+
 ---
 
 ### Installation
