@@ -1,7 +1,5 @@
 # OpenWhistleblowing2
 
-> Starting from the base project available at https://github.com/anticorruzione/openwhistleblowing
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -15,7 +13,7 @@
 
 ### Introduction
 
-This repository holds the source code for the OpenWhistleblowing2 (a.k.a. OWB2) project starting from the ANAC OpenWhistleblowing project (https://github.com/anticorruzione/openwhistleblowing).
+This repository holds the source code for the OpenWhistleblowing2 (a.k.a. OWB2) project started to improve the ANAC OpenWhistleblowing project (https://github.com/anticorruzione/openwhistleblowing).
 
 ---
 
