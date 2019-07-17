@@ -2,8 +2,6 @@
 
 > Starting from the base project available at https://github.com/anticorruzione/openwhistleblowing
 
----
-
 ## Table of Contents
 
 - [Introduction](#introduction)
